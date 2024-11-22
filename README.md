@@ -29,7 +29,7 @@ Before you begin, ensure you have installed:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/weather-now.git
+git clone https://github.com/ashishharswal-dev/weather-now.git
 cd weather-now
 ```
 
@@ -46,9 +46,6 @@ npx shadcn-ui@latest init
 4. Install required shadcn/ui components:
 ```bash
 npx shadcn-ui@latest add alert
-npx shadcn-ui@latest add button
-npx shadcn-ui@latest add card
-npx shadcn-ui@latest add input
 ```
 
 5. Start the development server:
@@ -94,6 +91,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Contact 📧
 
-Your Name - [@yourusername](https://twitter.com/yourusername)
+Your Name - [@ashishharswal-dev](https://github.com/ashishharswal-dev)
 
-Project Link: [https://github.com/yourusername/weather-now](https://github.com/yourusername/weather-now)
+Project Link: [weather-now](https://github.com/ashishharswal-dev/weather-now)

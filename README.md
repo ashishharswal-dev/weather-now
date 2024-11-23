@@ -94,4 +94,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 Your Name - [@ashishharswal-dev](https://github.com/ashishharswal-dev)
 
-Project Link: [weather-now](https://github.com/ashishharswal-dev/weather-now)
+Project Link: [Weather Now](https://stackblitz.com/edit/vitejs-vite-bpbk3a?file=src%2FWeatherApp.jsx)

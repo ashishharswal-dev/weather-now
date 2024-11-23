@@ -43,9 +43,10 @@ npm install
 npx shadcn-ui@latest init
 ```
 
-4. Install required shadcn/ui components:
+4. Install required shadcn/ui components and lucide icon library:
 ```bash
 npx shadcn-ui@latest add alert
+npm install lucide-react
 ```
 
 5. Start the development server:

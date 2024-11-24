@@ -38,8 +38,10 @@ cd weather-now
 npm install
 ```
 
-3. Set up shadcn/ui:
+3. Set up Tailwind CSS and shadcn/ui:
 ```bash
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
 npx shadcn-ui@latest init
 ```
 

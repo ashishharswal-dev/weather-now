@@ -94,6 +94,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Contact 📧
 
-Your Name - [@ashishharswal-dev](https://github.com/ashishharswal-dev)
+Ashish Harswal - [@ashishharswal-dev](https://github.com/ashishharswal-dev)
 
-Project Link: [Weather Now](https://stackblitz.com/edit/vitejs-vite-bpbk3a?file=src%2FWeatherApp.jsx)
+Project Link: [Weather Now](https://weather-now-pi.vercel.app/)
